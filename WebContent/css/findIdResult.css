@@ -1,0 +1,54 @@
+@charset "EUC-KR";
+
+#all {
+        width : 1000px;
+        height: 100%;
+        margin: 0px auto;
+        border: 2px solid #F2F2F2; 
+        }
+      body {
+        margin: 0;
+        padding: 0;
+      }
+        .header1 {
+            padding-right: 20%;
+            padding-top: 20px;
+            color: white; 
+            background-color: #F2F2F2;
+            height: 55px;
+        }
+        #title {
+        font-size:25px;
+        color:black;
+        text-decoration: none;
+        font-weight: bold;
+        margin: 20px;
+        }
+        .login {
+            margin-left: 221px;
+            margin-top: 80px;
+            margin-bottom: 100px;
+        }
+        #he {
+            color: black;
+            text-decoration: none;
+        }
+        #idList {
+            font-size : 18px;
+            margin-bottom: 10px;
+        }
+        #button {
+            width: 100px;
+            color: black;
+            height: 30px;
+            margin-bottom: 20px;
+        }
+        #join {
+            text-decoration: none;
+            color: black;
+            margin-right: 12px;
+        }
+        .in3 {
+            top: -167px;
+            right: 32%;
+        }

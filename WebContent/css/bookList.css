@@ -1,0 +1,105 @@
+@charset "EUC-KR";
+
+#all {
+            width : 1400px;
+            height: 100%;
+            margin: 0px auto;
+            border: 2px solid #F2F2F2; 
+        }
+        body {
+            margin: 0;
+            padding: 0;
+        }
+        .header1 {
+            padding-right: 20%;
+            padding-top: 20px;
+            color: white; 
+            background-color: #F2F2F2;
+            height: 55px;
+        }
+        #title {
+            font-size:25px;
+            color:black;
+            text-decoration: none;
+            font-weight: bold;
+            margin: 20px;
+        }
+        .head form {
+            display: inline;
+            margin-left: 230px;
+        }
+        .head input {
+            width: 300px;
+            height: 20px;
+        }
+        .head select {
+            height: 27px;
+        }
+        .head span {
+            font-size: 15px;
+            color:black;
+            float: right;
+            margin-top: 7px;
+            margin-right: -120px;
+        }
+        #logout {
+            text-decoration: none;
+            color:black;
+            margin-left: 15px;
+        }
+        .menu {
+            width :1400px;
+            background-color: #fcfcd3;
+            border-right: 2px solid #fcfcd3;
+            border-left: 2px solid #fcfcd3;
+            margin-left: -2px;
+            height: 39px;
+            padding-top: 15px;
+        }
+        .menu a {
+            text-decoration: none;
+            color : black;
+            margin : 193px;
+        }
+        table {
+            margin: 40px auto;
+            border: 2px solid #F2F2F2; 
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 2px solid #F2F2F2; 
+        }
+        td {
+            text-align: center;
+        }
+        h3 {
+            text-align: center;
+            margin-top: 90px;
+        }
+        #f1{
+            width: 1285px;
+            margin : 0 auto;
+            margin-top: 90px;
+            margin-bottom: 90px;
+            border-top: 2px solid #F2F2F2; 
+        }
+        #f2 {
+            width: 1285px;
+            margin : 0 auto;
+            margin-top: 60px;
+            margin-bottom: 90px;
+            border-top: 2px solid #F2F2F2; 
+        }
+        #button2 {
+            width: 70px;
+            height: 25px;
+            background-color: #F2F2F2;
+            border: 1px solid black;
+        }
+        #button3 {
+            width: 50px;
+            height: 26px;
+            background-color: #F2F2F2;
+            border: 1px solid black;
+            margin-top: -20px;
+        }

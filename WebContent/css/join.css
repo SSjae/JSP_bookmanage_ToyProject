@@ -1,0 +1,60 @@
+@charset "EUC-KR";
+
+#all {
+        width : 1000px;
+        height: 100%;
+        margin: 0px auto;
+        border: 2px solid #F2F2F2; 
+        }
+      body {
+        margin: 0;
+        padding: 0;
+      }
+        .header1 {
+            padding-right: 20%;
+            padding-top: 20px;
+            color: white; 
+            background-color: #F2F2F2;
+            height: 55px;
+        }
+        #title {
+        font-size:25px;
+        color:black;
+        text-decoration: none;
+        font-weight: bold;
+        margin: 20px;
+        }
+        .join {
+            margin-left: 345px;
+            margin-top: 80px;
+            margin-bottom: 100px;
+        }
+        #he {
+            color: black;
+            text-decoration: none;
+        }
+        form input {
+            display: block;
+            width : 310px;
+            height: 40px;
+            margin-top: 7px;
+            margin-bottom: 25px;
+            padding-left: 10px;
+            border-radius: 4px;
+            border-width: 1px;
+        }
+        form label {
+            font-size: 14px;
+        }
+        form em{
+            color : red;
+            margin-right :5px;
+        }
+        form span {
+            font-size: 11px;
+            color : grey;
+        }
+        #button {
+            width: 325px;
+            margin-top: 30px;
+        }

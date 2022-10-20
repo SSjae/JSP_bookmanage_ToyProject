@@ -1,0 +1,64 @@
+@charset "EUC-KR";
+
+#all {
+        width : 1000px;
+        height: 100%;
+        margin: 0px auto;
+        border: 2px solid #F2F2F2; 
+        }
+      body {
+        margin: 0;
+        padding: 0;
+      }
+        .header1 {
+            padding-right: 20%;
+            padding-top: 20px;
+            color: white; 
+            background-color: #F2F2F2;
+            height: 55px;
+        }
+        #title {
+        font-size:25px;
+        color:black;
+        text-decoration: none;
+        font-weight: bold;
+        margin: 20px;
+        }
+        .login {
+            margin-left: 221px;
+            margin-top: 80px;
+            margin-bottom: 100px;
+        }
+        #he {
+            color: black;
+            text-decoration: none;
+        }
+        .login input {
+            margin-bottom: 20px;
+            border: 0.5px solid;
+            width : 400px;
+            height: 45px;
+            padding-left: 10px;
+            border-radius: 4px;
+            border-width: 1px;
+        }
+        #button {
+            margin-left: 50px;
+            width: 100px;
+            color: black;
+            height: 120px;
+        }
+        #join {
+            text-decoration: none;
+            color: black;
+            margin-right: 12px;
+        }
+        .in2 {
+            display: block;
+        }
+        .in3 {
+            float: right;
+            position: relative;
+            top: -139px;
+            right: 28%;
+        }
